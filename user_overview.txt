@@ -1,0 +1,12 @@
+                  User Overview:                  
+
+    Total number of users registered:                     1
+    Total number of tasks recorder:                       2
+
+    Admin
+            Admin has been assigned 2 tasks.
+            This represents 100.0% of all tasks.
+            Admin has completed 50.0% of their tasks.
+            Admin must still complete 50.0% of their tasks.
+            50.0% of Admin's tasks are incomplete and now overdue.
+        
